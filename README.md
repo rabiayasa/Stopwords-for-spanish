@@ -1,0 +1,2 @@
+# rabiayasa
+Stopwords for Spanish
